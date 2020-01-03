@@ -4,7 +4,8 @@ public class MyProject {
 	
 	public static void main(String[] args) {
 
-		String s="¹þ¹þ";
+		String s="Â¹Ã¾Â¹Ã¾";
+		String b="abc";
 		int a=10;
 		System.out.println("hello!");
 	}
