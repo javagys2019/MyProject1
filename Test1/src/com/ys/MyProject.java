@@ -7,6 +7,7 @@ public class MyProject {
 		
 		int a=10;
 		System.out.println("hello!");
+		System.out.println(a);
 	}
 
 }
